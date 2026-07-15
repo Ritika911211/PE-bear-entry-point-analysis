@@ -1,0 +1,12 @@
+PE-bear was used to perform static analysis on a Windows executable file.
+
+Analysis performed:
+
+* Opened the executable in PE-bear.
+* Examined the Portable Executable (PE) structure.
+* Identified the executable Entry Point (EP).
+* Reviewed major executable sections.
+* Observed the executable layout for static analysis.
+
+Result:
+Successfully identified the Entry Point and understood the basic PE file structure.
