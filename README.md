@@ -37,3 +37,13 @@ The objective of this project is to understand the structure of Portable Executa
 ## Disclaimer
 
 This project was performed only in a controlled environment for educational and ethical cybersecurity learning purposes.
+
+## Project Screenshots
+
+### PE File Structure
+
+![PE File Structure](screenshots/PE-File-Structure.png)
+
+### Entry Point Analysis
+
+![Entry Point Analysis](screenshots/Entry-Point-Analysis.png)
