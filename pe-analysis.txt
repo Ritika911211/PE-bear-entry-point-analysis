@@ -1,0 +1,11 @@
+PE-bear
+
+Purpose:
+To identify the Entry Point (EP) of a Windows Portable Executable (PE) file.
+
+Activities:
+- Loaded executable file
+- Examined PE headers
+- Located Entry Point (EP)
+- Viewed executable sections
+- Performed basic static analysis
